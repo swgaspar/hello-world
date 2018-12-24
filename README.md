@@ -1,2 +1,2 @@
 # hello-world
-Just a test edied directly on github page
+Just a test edited directly on github page
